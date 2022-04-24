@@ -2,15 +2,15 @@
 
 _Software engineer based in San José, Costa Rica <br>
 
-[Email](mailto:tatimb14@gmail.com) / [Website](https://tatimoreira.com/) / [LinkedIn](https://www.linkedin.com/in/tatimoreira/) / [GitHub](https://github.com/tatimoreira/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:tatimb14@gmail.com) / [Website](https://tatimoreira.com/) / [LinkedIn](https://www.linkedin.com/in/tatimoreira/) / [GitHub](https://github.com/tatimoreira/)
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Full-stack Engineer** @ [Parsley](https://parsley.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+  - **_Technologies used:_** React, TypeScript, Testing Library, HTML, CSS, Style Components, Firestore, Graphql.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
