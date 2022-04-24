@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Tatiana Moreira
 
-_Software engineer and journalist based in Berlin, Germany_ <br>
+_Software engineer based in San José, Costa Rica <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:tatimb14@gmail.com) / [Website](https://tatimoreira.com/) / [LinkedIn](https://www.linkedin.com/in/tatimoreira/) / [GitHub](https://github.com/tatimoreira/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
 ## 👩🏼‍💻 Engineering Experience
 
